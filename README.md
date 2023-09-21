@@ -2,6 +2,6 @@
 
 Formação: História, Pedagogia e Pensamento Computacional
 
-Tenho pouca experiência em programação. No entanto já trabalho com informática a 11 anos
+Tenho pouca experiência em programação, no entanto já trabalho com informática a 11 anos
 
-Meu projeto irá tratar de site sobre informática, o titulo do meu site será MH INFORMÁTICA
+Meu projeto irá tratar de um site sobre informática, e o titulo será  MH INFORMÁTICA
